@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IaRH4brhmfapFS6f//eV0IzCtR4BUY5JKyWlS5jrrSHwRvjGu8oMknbEKIsQvuGqokgplTClmgh1/jshtmqWrQ==",
+  "dgSpecHash": "3uc3vaNf+4oMo3r4L3sWXOfxdBomt+sAqvlJewi+Bk3zV5Pi2bUpnRAPITXT9uImbZRsYZNrPIhT3jlXAEDp2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Igor\\Documents\\Visual Studio 2022\\CURSO - C# consumindo API, gravando arquivos e uitilizando LINQ\\Crud\\Crud\\Crud.csproj",
+  "projectFilePath": "C:\\Users\\Implantação\\Documents\\IgorM\\crud\\CrudEmCSharp\\Crud\\Crud.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

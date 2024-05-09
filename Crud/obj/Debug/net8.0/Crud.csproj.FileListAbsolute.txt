@@ -12,3 +12,18 @@ C:\Users\Igor\Documents\Visual Studio 2022\CURSO - C# consumindo API, gravando a
 C:\Users\Igor\Documents\Visual Studio 2022\CURSO - C# consumindo API, gravando arquivos e uitilizando LINQ\Crud\Crud\obj\Debug\net8.0\Crud.pdb
 C:\Users\Igor\Documents\Visual Studio 2022\CURSO - C# consumindo API, gravando arquivos e uitilizando LINQ\Crud\Crud\obj\Debug\net8.0\Crud.genruntimeconfig.cache
 C:\Users\Igor\Documents\Visual Studio 2022\CURSO - C# consumindo API, gravando arquivos e uitilizando LINQ\Crud\Crud\obj\Debug\net8.0\ref\Crud.dll
+C:\Users\Implantação\Documents\IgorM\crud\CrudEmCSharp\Crud\bin\Debug\net8.0\Crud.exe
+C:\Users\Implantação\Documents\IgorM\crud\CrudEmCSharp\Crud\bin\Debug\net8.0\Crud.deps.json
+C:\Users\Implantação\Documents\IgorM\crud\CrudEmCSharp\Crud\bin\Debug\net8.0\Crud.runtimeconfig.json
+C:\Users\Implantação\Documents\IgorM\crud\CrudEmCSharp\Crud\bin\Debug\net8.0\Crud.dll
+C:\Users\Implantação\Documents\IgorM\crud\CrudEmCSharp\Crud\bin\Debug\net8.0\Crud.pdb
+C:\Users\Implantação\Documents\IgorM\crud\CrudEmCSharp\Crud\obj\Debug\net8.0\Crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Implantação\Documents\IgorM\crud\CrudEmCSharp\Crud\obj\Debug\net8.0\Crud.AssemblyInfoInputs.cache
+C:\Users\Implantação\Documents\IgorM\crud\CrudEmCSharp\Crud\obj\Debug\net8.0\Crud.AssemblyInfo.cs
+C:\Users\Implantação\Documents\IgorM\crud\CrudEmCSharp\Crud\obj\Debug\net8.0\Crud.csproj.CoreCompileInputs.cache
+C:\Users\Implantação\Documents\IgorM\crud\CrudEmCSharp\Crud\obj\Debug\net8.0\Crud.sourcelink.json
+C:\Users\Implantação\Documents\IgorM\crud\CrudEmCSharp\Crud\obj\Debug\net8.0\Crud.dll
+C:\Users\Implantação\Documents\IgorM\crud\CrudEmCSharp\Crud\obj\Debug\net8.0\refint\Crud.dll
+C:\Users\Implantação\Documents\IgorM\crud\CrudEmCSharp\Crud\obj\Debug\net8.0\Crud.pdb
+C:\Users\Implantação\Documents\IgorM\crud\CrudEmCSharp\Crud\obj\Debug\net8.0\Crud.genruntimeconfig.cache
+C:\Users\Implantação\Documents\IgorM\crud\CrudEmCSharp\Crud\obj\Debug\net8.0\ref\Crud.dll

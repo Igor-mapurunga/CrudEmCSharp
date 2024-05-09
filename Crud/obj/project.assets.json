@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Igor\\.nuget\\packages\\": {}
+    "C:\\Users\\Implantação\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Igor\\Documents\\Visual Studio 2022\\CURSO - C# consumindo API, gravando arquivos e uitilizando LINQ\\Crud\\Crud\\Crud.csproj",
+      "projectUniqueName": "C:\\Users\\Implantação\\Documents\\IgorM\\crud\\CrudEmCSharp\\Crud\\Crud.csproj",
       "projectName": "Crud",
-      "projectPath": "C:\\Users\\Igor\\Documents\\Visual Studio 2022\\CURSO - C# consumindo API, gravando arquivos e uitilizando LINQ\\Crud\\Crud\\Crud.csproj",
-      "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Igor\\Documents\\Visual Studio 2022\\CURSO - C# consumindo API, gravando arquivos e uitilizando LINQ\\Crud\\Crud\\obj\\",
+      "projectPath": "C:\\Users\\Implantação\\Documents\\IgorM\\crud\\CrudEmCSharp\\Crud\\Crud.csproj",
+      "packagesPath": "C:\\Users\\Implantação\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Implantação\\Documents\\IgorM\\crud\\CrudEmCSharp\\Crud\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Implantação\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

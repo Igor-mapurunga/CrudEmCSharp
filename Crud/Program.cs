@@ -3,6 +3,13 @@
 Cliente cliente = new Cliente();
 List<Cliente> ClientesCadastrados = new List<Cliente>();
 
+Cliente cliente2 = new Cliente();
+cliente2.Nome = "Carlos";
+cliente2.Cpf = "123";
+cliente2.Email = "carlosdourado@gmail.com";
+
+ClientesCadastrados.Add(cliente2);
+
 
 void ExibirOpcoesDoMenu()
 {
@@ -34,7 +41,7 @@ void ExibirOpcoesDoMenu()
             cliente.atualizarNomeDoCliente(ClientesCadastrados);
             break;
         case 4:
-           // cliente.deletarCliente(ClientesCadastrados);
+            cliente.excluirCliente(ClientesCadastrados);
             break;
         case 5:
             Console.WriteLine("Tchau tchau :)");

@@ -32,9 +32,6 @@ namespace Crud
             Console.WriteLine("CLIENTE CADASTRADO COM SUCESSO");
             Thread.Sleep(4000);
             Console.Clear();
-    
-            
-
         }
 
         public void exibirClienteCadastrado(List<Cliente> ClientesCadastrados)
@@ -65,6 +62,23 @@ namespace Crud
             {
                 Console.WriteLine("Cliente não encontrado.");
             }
+        }
+        public void excluirCliente(List<Cliente> ClientesCadastrados)
+        {
+            Console.WriteLine("Digite o nome do cliente que deseja excluir ");
+            string verificarCliente = Console.ReadLine();
+            Cliente clienteEncontrado = ClientesCadastrados.FirstOrDefault(c => c.Nome == verificarCliente);
+
+            if (clienteEncontrado != null)
+            {
+                ClientesCadastrados.Remove(clienteEncontrado);
+                Console.WriteLine($"O CLIENTE {verificarCliente} foi excluido com sucesso");
+            }
+            else
+            {
+                Console.WriteLine("Cliente não encontrado.");
+            }
+
         }
     }
 }
